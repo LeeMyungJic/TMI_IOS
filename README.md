@@ -1,4 +1,4 @@
-# TMI (Take Missing Info)
+# 🔆 TMI (Take Missing Info)
 
 ---
 
